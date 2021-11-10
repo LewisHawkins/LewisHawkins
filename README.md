@@ -14,7 +14,7 @@ A lot of my repositories are related to uni work, but there's probably some fun 
 
 ## Cheers!
 
-No problem. 
+No problem :)
 
 <!---
 Comment here.
